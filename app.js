@@ -21,7 +21,6 @@ const html = `
     <style>
     body{
     height: 100vh;
-    /* width: 365px; */
     display:flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +28,7 @@ const html = `
 
 .slide-show{
     background-color: antiquewhite;
-    width: 365px;
+    width: 422px;
     overflow: hidden;
 }
 
@@ -40,9 +39,8 @@ const html = `
 }
 
 .set-img{
-    min-width: 365px;
-    height: 720px;
-    /* background-size:cover; */
+    min-width: 422px;
+    height: 648px;
     background-repeat: no-repeat;
     background-position: center;
 }
