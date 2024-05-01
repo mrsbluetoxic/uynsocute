@@ -41,7 +41,7 @@ const html = `
 
 .set-img{
     min-width: 100%;
-    height: 648px;
+    height: 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
