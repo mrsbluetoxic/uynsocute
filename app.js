@@ -29,6 +29,7 @@ const html = `
 .slide-show{
     background-color: antiquewhite;
     width: 422px;
+    height: 648px;
     overflow: hidden;
 }
 
@@ -39,8 +40,8 @@ const html = `
 }
 
 .set-img{
-    min-width: 422px;
-    height: 648px;
+    min-width: 100%;
+    height: 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
